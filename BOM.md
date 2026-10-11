@@ -17,7 +17,7 @@
 | [1N4148 Signal Diode](https://thepihut.com/products/1n4148-signal-diode-10-pack?variant=27739521937) | For my switch matrix | 1 | $1.99 | $1.99 | [The Pi Hut](https://thepihut.com/products/1n4148-signal-diode-10-pack?variant=27739521937) |
 | [EC11E Rotary encoders](https://www.amazon.co.uk/sourcing-map-Encoder-Digital-Potentiometer/dp/B07R8HGQNB?source=ps-sl-shoppingads-lpcontext&smid=AIF4G7PLKBOZY&th=1) | To act as the control Knob | 1 | $11.24 | $11.24 | [Amazon](https://www.amazon.co.uk/sourcing-map-Encoder-Digital-Potentiometer/dp/B07R8HGQNB?source=ps-sl-shoppingads-lpcontext&smid=AIF4G7PLKBOZY&th=1) |
 | **Parts subtotal** | — | — | — | **$27.26** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.26** | — |
+| **Tax & shipping** | — | — | — | **$5.03** | — |
+| **Total** | — | — | — | **$32.29** | — |
 
-$2.74 left of the tier's funding.
+**$2.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
